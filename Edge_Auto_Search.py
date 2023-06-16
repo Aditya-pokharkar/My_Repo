@@ -2,7 +2,7 @@ import os
 import time
 import webbrowser
 import random
-
+Sbjku
 #path of edege browser executabel file. (Change it according to your system)
 edge_path="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 
